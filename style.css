@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: blue(206, 216, 167);
+    color: blue;
 }
 
 h2{
@@ -54,7 +54,7 @@ img{
 }
 
 .button {
-    background: orange;
+    background: rgb;
     font-size: 110%;
     color:gray;
     padding: 4px;
